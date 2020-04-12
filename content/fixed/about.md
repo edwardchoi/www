@@ -1,6 +1,6 @@
 {
     "title": "About",
-    "sidebar": true,
+    "sidebar": false,
     "weight": "1"
 }
 
