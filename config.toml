@@ -1,0 +1,5 @@
+baseURL = "http://os.sg/"
+languageCode = "en-us"
+title = "My digital playground."
+theme = "lanyon-hugo-theme"
+
